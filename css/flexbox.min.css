@@ -1,0 +1,8 @@
+body { margin: 0; padding: 0; -webkit-box-sizing: border-box; box-sizing: border-box; }
+
+.flx_div { display: -webkit-box; display: -ms-flexbox; display: flex; -ms-flex-wrap: wrap; flex-wrap: wrap; height: 100%; text-align: center; border: red solid 1px; padding: 15px; }
+
+.child_item { -ms-flex-item-align: center; -ms-grid-row-align: center; align-self: center; border: black solid 1px; width: 46%; font-size: 90px; padding: 10px; }
+
+.order_change { -webkit-box-ordinal-group: 0; -ms-flex-order: -1; order: -1; }
+/*# sourceMappingURL=flexbox.min.css.map */

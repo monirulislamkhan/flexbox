@@ -1,0 +1,21 @@
+body{margin:0; padding:0; box-sizing:border-box;}
+  .flx_div{
+    display: flex;
+    flex-wrap:wrap;
+    height:100%;
+    text-align:center;
+    border:red solid 1px;
+    padding:15px;
+  }
+  .child_item{
+    // border: yellow solid 1px;
+    align-self:center;
+    border:black solid 1px;
+    width:46%; 
+    font-size:90px;
+    padding:10px;
+    
+
+    
+  }
+  .order_change{order:-1;}
